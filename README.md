@@ -1,94 +1,72 @@
-CodeAlpha UI/UX Internship – Task 1
-Wireframing & Low-Fidelity Design
+# CodeAlpha UI/UX Internship
+## Task 1: Wireframing & Low-Fidelity Design
 
-📌 Project Title
-
+### Project Title
 Bookspace – E-Book Reading Mobile App Wireframe
 
-📖 Project Overview
+---
 
-This project was created as part of my UI/UX Design Internship at CodeAlpha.
-The objective of this task was to design low-fidelity wireframes for a mobile application to demonstrate the structure and user flow before applying visual design elements.
+## Project Overview
+This project was created as part of the UI/UX Design Internship at CodeAlpha.  
+The aim of this task is to design low-fidelity wireframes for a mobile application to represent the basic layout and user flow before applying colors, typography, and visual elements.
 
-For this task, I designed wireframes for an e-book reading application called Bookspace. The wireframes focus on layout structure, navigation flow, and content hierarchy.
+For this task, a mobile e-book reading application named **Bookspace** was designed.
 
-🎯 Objective
+---
 
-The main goal of this task was to:
+## Objective
+The objective of this task is to:
 
-Understand the wireframing process
+- Understand the wireframing process
+- Design the structure of a mobile application
+- Plan the user navigation flow
+- Focus on usability and layout before visual design
 
-Plan the basic layout of a mobile application
+---
 
-Design clear user navigation and interaction flow
+## App Concept
+**Bookspace** is a mobile application that allows users to discover, browse, and read digital books in a simple and organized way.  
+The application focuses on providing a smooth reading experience with easy navigation.
 
-Focus on usability and simplicity before visual styling
+---
 
-📱 App Concept – Bookspace
+## Wireframe Screens
+The following screens were designed in the wireframe:
 
-Bookspace is a mobile application designed for users to discover, read, and manage digital books easily.
-The app provides a smooth reading experience with organized book browsing and a user-friendly interface.
+- Splash Screen
+- Login Screen
+- Home Screen
+- Book Library / Categories
+- Book Details Page
+- Reading Interface
+- User Profile Page
+- Navigation Menu
 
-🧩 Wireframe Screens Designed
+---
 
-The wireframes include the following key screens:
+## Tools Used
+- Figma
+- UI/UX Design Principles
 
-Splash / Welcome Screen
+---
 
-Login / User Entry Screen
+## Design Approach
+The wireframes were designed with the following principles:
 
-Home Screen
+- Simple layout
+- Clear navigation
+- Proper content hierarchy
+- User-friendly interface
 
-Book Categories / Library Screen
+---
 
-Book Details Screen
+## Learning Outcome
+This task helped in understanding how to structure an application interface before creating the final high-fidelity design.
 
-Reading Interface
+---
 
-User Profile Screen
+## Author
+Saghana K S  
+UI/UX Design Intern – CodeAlpha
 
-Navigation Menu
 
-These screens demonstrate the overall user journey from opening the app to reading a book.
-
-🛠 Tools Used
-
-Figma
-
-UI/UX Design Principles
-
-Low-Fidelity Wireframing Techniques
-
-🎨 Design Approach
-
-The wireframes were designed following important UI/UX principles:
-
-Minimal and clean structure
-
-Easy navigation between screens
-
-Clear placement of content and actions
-
-Logical user flow for reading and browsing books
-
-📂 Repository Contents
-
-This repository contains:
-
-Wireframe design screenshots
-
-Project description
-
-UI structure of the Bookspace application
-
-🚀 Learning Outcome
-
-Through this task, I learned how to:
-
-Plan an application layout before designing the final UI
-
-Create structured wireframes for mobile apps
-
-Improve usability through thoughtful screen organization
-
-Wireframing helps designers quickly visualize ideas and improve the user experience before moving to high-fidelity design.
